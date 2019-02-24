@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Snowy3</folder>
+	<filename>s37.jpg</filename>
+	<path>\\Mac\Home\Desktop\Snowy3\s37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>343</ymin>
+			<xmax>496</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

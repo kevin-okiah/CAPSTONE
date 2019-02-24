@@ -1,0 +1,38 @@
+<annotation>
+	<folder>night-labeled</folder>
+	<filename>IMG_5940.jpg</filename>
+	<path>C:\Ramesh\Project-images-org\night\night-labeled\IMG_5940.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>241</ymin>
+			<xmax>206</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stop sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>195</ymin>
+			<xmax>547</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Dayvideo7_carrolton7.jpg</filename>
+	<path>C:\Users\kevolo\Desktop\Driving_condition\dayX\images\Dayvideo7_carrolton7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>685</ymin>
+			<xmax>821</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Snowy3</folder>
+	<filename>s3.jpg</filename>
+	<path>\\Mac\Home\Desktop\Snowy3\s3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>962</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>228</ymin>
+			<xmax>517</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

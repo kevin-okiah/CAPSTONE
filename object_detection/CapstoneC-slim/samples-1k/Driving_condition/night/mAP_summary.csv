@@ -1,0 +1,6 @@
+,Algorthm,mAP,Condition
+0,faster_rcnn_inception_v2_coco,0.3238565540201913,night
+1,faster_rcnn_resnet50_coco,0.2737548367336812,night
+2,mask_rcnn_inception_v2_coco,0.2845256136526303,night
+3,rfcn_resnet101_coco,0.5707581755108609,night
+4,ssd_inception_v2_coco,0.26185092319583725,night
