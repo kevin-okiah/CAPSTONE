@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Snowy3</folder>
+	<filename>s32.jpg</filename>
+	<path>\\Mac\Home\Desktop\Snowy3\s32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>187</ymin>
+			<xmax>436</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,22 @@
+# AP and precision/recall per class
+0.00% = 12 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 3 AP  
+ Precision: ['0.00', '0.00', '0.00', '0.00']
+ Recall   :['0.00', '0.00', '0.00', '1.00']
+
+
+# mAP of all classes
+mAP = 0.00%
+
+# Number of ground-truth objects per class
+12: 1
+3: 2
+
+# Number of predicted objects per class
+1: 1 (tp:0, fp:1)
+13: 1 (tp:0, fp:1)
+3: 2 (tp:0, fp:2)
+8: 1 (tp:0, fp:1)

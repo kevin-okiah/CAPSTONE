@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Dayvideo5_carrolton0.jpg</filename>
+	<path>C:\Users\kevolo\Desktop\Driving_condition\dayX\images\Dayvideo5_carrolton0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>770</xmin>
+			<ymin>259</ymin>
+			<xmax>847</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>983</xmin>
+			<ymin>251</ymin>
+			<xmax>1059</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>539</ymin>
+			<xmax>565</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>
